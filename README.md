@@ -141,7 +141,7 @@ descriptive message, and end with CR and LF characters (`\r\n`).
 | `LOGO` | (none) | |
 | `QUIT` | (none) | |
 
-`fineType` indices, matching `FineType` in `PFMSSpec.txt` in the Assignment 1:
+fineType indices, matching FineType in PFMSSpec.txt in the Assignment 1:
 `0 = OVERSTAYED_PARKING ($65.00)`, `1 = NO_STANDING_ZONE ($90.00)`,
 `2 = EXPIRED_METER ($55.00)`, `3 = DISABLED_PARKING_MISUSE ($300.00)`.
 
@@ -247,7 +247,7 @@ Write a group report documenting all your steps, from the initial fuzzing setup 
 Submit all the artefacts to the `results` folder by following the
 instructions written in `results/README.md`.
 
-## Marking criteria (draft)
+## Marking criteria
 
 | Criterion  | Description  | Marks  |
 |---|---|---|
